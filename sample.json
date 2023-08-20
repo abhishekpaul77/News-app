@@ -1,0 +1,56 @@
+{
+  "status": "ok",
+  "totalResults": 5,
+  "articles": [
+    {
+      "source": { "id": "talksport", "name": "TalkSport" },
+      "author": "161385360554578",
+      "title": "Chelsea given Caicedo hope, Saint-Maximin bids farewell, Man United reject Maguire offer",
+      "description": "talkSPORT.com brings you all the latest football news, insight and transfer gossip. Check out the headline stories and follow our live blog below for regular updates throughout the day. Headlines: …",
+      "url": "https://talksport.com/football/1486182/football-news-live-harry-kane-tottenham-chelsea-caicedo/",
+      "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2023/07/MM-TALKSPORT-BLOG-28th.jpg?strip=all&quality=100&w=1500&h=1000&crop=1",
+      "publishedAt": "2023-07-29T09:38:49Z",
+      "content": "Chelsea have been hit with an £8.6million fine by UEFA for breaching Financial Fair Play rules stretching back to Roman Abramovich’s ownership.\r\nThe club’s new owners – including Todd Boehly – alerte… [+967 chars]"
+    },
+    {
+      "source": { "id": "four-four-two", "name": "FourFourTwo" },
+      "author": "Ben Hayward",
+      "title": "Harry Kane at 30: Spurs striker's future uncertain as Bayern plan transfer talks",
+      "description": "The Tottenham forward celebrated his 30th birthday on Friday, but it is still unclear where he will be playing his football next season",
+      "url": "https://www.fourfourtwo.com/news/harry-kane-at-30-spurs-strikers-future-uncertain-as-bayern-plan-transfer-talks",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/bDaaof7xQZPwuHWyj8yqyk-1200-80.jpg",
+      "publishedAt": "2023-07-28T18:01:34Z",
+      "content": "Tottenham striker Harry Kane turned 30 on Friday with his future very much up in the air as Bayern Munich plan more transfer talks with the north London club.\r\nKane became Spurs' all-time top scorer … [+1088 chars]"
+    },
+    {
+      "source": { "id": "espn", "name": "ESPN" },
+      "author": "Adam Rittenberg",
+      "title": "Key 2023 quarterback competitions around college football - ESPN",
+      "description": "From Alabama to UCLA, let's check in on the top quarterback competitions across the college football landscape.",
+      "url": "https://www.espn.com/college-football/insider/story/_/id/38068904/key-2023-quarterback-competitions-college-football",
+      "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0504%2Fr1168510_1296x729_16%2D9.jpg",
+      "publishedAt": "2023-07-28T11:00:00Z",
+      "content": "Training camps kick off this week for select teams (many more follow next week), which means position competitions are resuming in earnest. As always, no group of players will capture more attention … [+19165 chars]"
+    },
+    {
+      "source": { "id": "bleacher-report", "name": "Bleacher Report" },
+      "author": "Adam Kramer",
+      "title": "B/R College Football 2023 Betting Locks with Adam Kramer: Win Totals",
+      "description": "At long last, we have a blank slate. With a fresh college football season approaching— words that are spectacular to type—every team, no matter the offseason,…",
+      "url": "https://bleacherreport.com/articles/10084127-br-college-football-2023-betting-locks-with-adam-kramer-win-totals",
+      "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_2000,q_95/v1690435005/ihetoa22xkh0zw6hsa6z.jpg",
+      "publishedAt": "2023-07-27T14:38:59Z",
+      "content": "Adam Davis/Icon Sportswire via Getty Images\r\nAt long last, we have a blank slate.\r\nWith a fresh college football season approaching words that are spectacular to typeevery team, no matter the offseas… [+6520 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+      "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+      "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+      "publishedAt": "2020-04-27T07:20:43Z",
+      "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+    }
+  ]
+}
